@@ -25,7 +25,7 @@ android {
 
     namespace 'slayer.bg.launcher.bg_launcher'
     
-    compileSdkVersion 31
+    compileSdkVersion 36
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
